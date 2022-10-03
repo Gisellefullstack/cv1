@@ -1,0 +1,28 @@
+
+body {
+  background-color: #EEF1FF;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width:7px;
+  width: 7%;
+  height: 0px;
+}
+h1  {color:  #B1B2FF;
+    font-family: papyrus, fantasy;
+}
+h3 {
+  color: #B1B2FF;
+    font-family: papyrus, fantasy;
+}
+p {
+  font-family: papyrus, fantasy;
+}
+li {
+  font-family: papyrus, fantasy;
+}
+td {
+  font-family: papyrus, fantasy;
+}
